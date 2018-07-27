@@ -1,4 +1,8 @@
-# python
+# Twitter Sentiment Analysis
+
+The following project uses python 3 to download the tweets, store them in mongoDB database and finally perform sentiment analysis on them.
+
+### The Approach
 The tasks performed in this project are as following:
 
     Download the tweets.
