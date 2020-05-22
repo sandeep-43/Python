@@ -1,0 +1,3 @@
+Checking the functionality of Python's write().
+Here we go.
+Not so interesting!!!Overwrite check

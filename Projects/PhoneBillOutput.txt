@@ -1,0 +1,16 @@
+    ****** Phone Bill *******
+***2018-04-14 15:47:40.363858***
+
+Month	Allowed	Used	Over	Amount
+1	200	800	600	194.99
+2	300	500	200	114.99
+3	400	600	200	114.99
+4	invalid	invalid	0	0
+5	invalid	invalid	0	0
+6	300	10	0	74.99
+7	invalid	invalid	0	0
+8	375	100	0	74.99
+9	500	20	0	74.99
+10	invalid	invalid	0	0
+11	700	60	0	74.99
+12	800	1200	400	154.99
